@@ -1,0 +1,147 @@
+@media only screen and (max-width: 1280px){
+	#header{
+		width: 100.5%;
+		height: 200px;
+		margin-left: -8px;
+		margin-top: -8px;
+		margin-bottom: 5px;
+	}
+
+	#soc{
+		margin-top: -70px;
+		margin-left: 1110px;
+	}
+
+	#anvanumyverevum{
+		font-size: 70px;
+	}
+
+	.menu{
+		width: 100%;
+		height: 30px;
+		text-align: center;
+		color: white;
+		font-size: 20px;
+		background-color: #00BFFF;
+		margin-bottom: 5px;
+	}
+
+	.newpost{
+		width: 760px;
+		height: auto;
+		border: 1px solid black;
+		margin-left: 230px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		padding: 20px;
+		margin-bottom: 25px;
+		margin-top: 25px;
+	}
+}
+
+@media only screen and (max-width: 1200px){
+	#header{
+		width: 100.5%;
+		height: 200px;
+		margin-left: -8px;
+		margin-top: -8px;
+	}
+
+	#soc{
+		margin-top: -70px;
+		margin-left: 850px;
+	}
+
+	#anvanumyverevum{
+		font-size: 70px;
+	}
+
+	.newpost{
+		width: 760px;
+		height: auto;
+		border: 1px solid black;
+		margin-left: 100px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		padding: 20px;
+		margin-bottom: 25px;
+		margin-top: 25px;
+	}
+}
+
+@media only screen and (max-width: 992px){
+	#header{
+		width: 100.5%;
+		height: 200px;
+		margin-left: -8px;
+		margin-top: -8px;
+	}
+
+	#soc{
+		margin-top: -70px;
+		margin-left: 680px;
+	}
+
+	#anvanumyverevum{
+		font-size: 70px;
+	}
+
+	.newpost{
+		width: 700px;
+		height: auto;
+		border: 1px solid black;
+		margin-left: 100px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		padding: 20px;
+		margin-bottom: 25px;
+		margin-top: 25px;
+	}
+}
+
+@media only screen and (max-width: 768px){
+	#header{
+		width: 100.5%;
+		height: 200px;
+		border: 5px solid #1E90FF;
+		margin-left: -8px;
+		margin-top: -8px;
+	}
+
+	#soc{
+		margin-top: 50px;
+		margin-left: 400px;
+	}
+
+	#anvanumyverevum{
+		font-size: 50px;
+	}
+}
+
+@media only screen and (max-width: 500px){
+	#header{
+		width: 100.5%;
+		height: 200px;
+		border: 5px solid #1E90FF;
+		margin-left: -8px;
+		margin-top: -8px;
+	}
+
+	.newpost{
+		width: 400px;
+		height: auto;
+		border: 1px solid black;
+		margin-left: 20px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		padding: 20px;
+		margin-bottom: 25px;
+		margin-top: 25px;
+	}
+}
+
+@media only screen and (max-width: 320px){
+	#header{
+		width: 100.5%;
+		height: 200px;
+		border: 5px solid #1E90FF;
+		margin-left: -8px;
+		margin-top: -8px;
+	}
+}
